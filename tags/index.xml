@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WST</title>
-    <link>http://example.org/tags/</link>
+    <link>https://whileshetravels.github.io/tags/</link>
     <description>Recent content in Tags on WST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whileshetravels.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Austria</title>
-      <link>http://example.org/tags/austria/</link>
+      <link>https://whileshetravels.github.io/tags/austria/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/austria/</guid>
+      <guid>https://whileshetravels.github.io/tags/austria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Belgrade</title>
-      <link>http://example.org/tags/belgrade/</link>
+      <link>https://whileshetravels.github.io/tags/belgrade/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/belgrade/</guid>
+      <guid>https://whileshetravels.github.io/tags/belgrade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Berlin</title>
-      <link>http://example.org/tags/berlin/</link>
+      <link>https://whileshetravels.github.io/tags/berlin/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/berlin/</guid>
+      <guid>https://whileshetravels.github.io/tags/berlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>http://example.org/tags/blogging/</link>
+      <link>https://whileshetravels.github.io/tags/blogging/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/blogging/</guid>
+      <guid>https://whileshetravels.github.io/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bosnia</title>
-      <link>http://example.org/tags/bosnia/</link>
+      <link>https://whileshetravels.github.io/tags/bosnia/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/bosnia/</guid>
+      <guid>https://whileshetravels.github.io/tags/bosnia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Budapest</title>
-      <link>http://example.org/tags/budapest/</link>
+      <link>https://whileshetravels.github.io/tags/budapest/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/budapest/</guid>
+      <guid>https://whileshetravels.github.io/tags/budapest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Croatia</title>
-      <link>http://example.org/tags/croatia/</link>
+      <link>https://whileshetravels.github.io/tags/croatia/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/croatia/</guid>
+      <guid>https://whileshetravels.github.io/tags/croatia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Czech</title>
-      <link>http://example.org/tags/czech/</link>
+      <link>https://whileshetravels.github.io/tags/czech/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/czech/</guid>
+      <guid>https://whileshetravels.github.io/tags/czech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>https://whileshetravels.github.io/tags/development/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>https://whileshetravels.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast</title>
-      <link>http://example.org/tags/fast/</link>
+      <link>https://whileshetravels.github.io/tags/fast/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/fast/</guid>
+      <guid>https://whileshetravels.github.io/tags/fast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>France</title>
-      <link>http://example.org/tags/france/</link>
+      <link>https://whileshetravels.github.io/tags/france/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/france/</guid>
+      <guid>https://whileshetravels.github.io/tags/france/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Germany</title>
-      <link>http://example.org/tags/germany/</link>
+      <link>https://whileshetravels.github.io/tags/germany/</link>
       <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/germany/</guid>
+      <guid>https://whileshetravels.github.io/tags/germany/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://example.org/tags/go/</link>
+      <link>https://whileshetravels.github.io/tags/go/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/go/</guid>
+      <guid>https://whileshetravels.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hungary</title>
-      <link>http://example.org/tags/hungary/</link>
+      <link>https://whileshetravels.github.io/tags/hungary/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hungary/</guid>
+      <guid>https://whileshetravels.github.io/tags/hungary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iceland</title>
-      <link>http://example.org/tags/iceland/</link>
+      <link>https://whileshetravels.github.io/tags/iceland/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/iceland/</guid>
+      <guid>https://whileshetravels.github.io/tags/iceland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paris</title>
-      <link>http://example.org/tags/paris/</link>
+      <link>https://whileshetravels.github.io/tags/paris/</link>
       <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/paris/</guid>
+      <guid>https://whileshetravels.github.io/tags/paris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prague</title>
-      <link>http://example.org/tags/prague/</link>
+      <link>https://whileshetravels.github.io/tags/prague/</link>
       <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/prague/</guid>
+      <guid>https://whileshetravels.github.io/tags/prague/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Romania</title>
-      <link>http://example.org/tags/romania/</link>
+      <link>https://whileshetravels.github.io/tags/romania/</link>
       <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/romania/</guid>
+      <guid>https://whileshetravels.github.io/tags/romania/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarajevo</title>
-      <link>http://example.org/tags/sarajevo/</link>
+      <link>https://whileshetravels.github.io/tags/sarajevo/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/sarajevo/</guid>
+      <guid>https://whileshetravels.github.io/tags/sarajevo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serbia</title>
-      <link>http://example.org/tags/serbia/</link>
+      <link>https://whileshetravels.github.io/tags/serbia/</link>
       <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/serbia/</guid>
+      <guid>https://whileshetravels.github.io/tags/serbia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seward</title>
-      <link>http://example.org/tags/seward/</link>
+      <link>https://whileshetravels.github.io/tags/seward/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/seward/</guid>
+      <guid>https://whileshetravels.github.io/tags/seward/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Split</title>
-      <link>http://example.org/tags/split/</link>
+      <link>https://whileshetravels.github.io/tags/split/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/split/</guid>
+      <guid>https://whileshetravels.github.io/tags/split/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timisoara</title>
-      <link>http://example.org/tags/timisoara/</link>
+      <link>https://whileshetravels.github.io/tags/timisoara/</link>
       <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/timisoara/</guid>
+      <guid>https://whileshetravels.github.io/tags/timisoara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Usa</title>
-      <link>http://example.org/tags/usa/</link>
+      <link>https://whileshetravels.github.io/tags/usa/</link>
       <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/usa/</guid>
+      <guid>https://whileshetravels.github.io/tags/usa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vienna</title>
-      <link>http://example.org/tags/vienna/</link>
+      <link>https://whileshetravels.github.io/tags/vienna/</link>
       <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/vienna/</guid>
+      <guid>https://whileshetravels.github.io/tags/vienna/</guid>
       <description></description>
     </item>
     
