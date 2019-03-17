@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cities on WST</title>
+    <link>http://example.org/cities/</link>
+    <description>Recent content in Cities on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/cities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belgrade</title>
+      <link>http://example.org/cities/belgrade/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/belgrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin</title>
+      <link>http://example.org/cities/berlin/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Budapest</title>
+      <link>http://example.org/cities/budapest/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/budapest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nice</title>
+      <link>http://example.org/cities/nice/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/nice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paris</title>
+      <link>http://example.org/cities/paris/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prague</title>
+      <link>http://example.org/cities/prague/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/prague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarajevo</title>
+      <link>http://example.org/cities/sarajevo/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/sarajevo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seward</title>
+      <link>http://example.org/cities/seward/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/seward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split</title>
+      <link>http://example.org/cities/split/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/split/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timisoara</title>
+      <link>http://example.org/cities/timisoara/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/timisoara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vienna</title>
+      <link>http://example.org/cities/vienna/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cities/vienna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

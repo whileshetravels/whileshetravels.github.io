@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Countries on WST</title>
+    <link>http://example.org/countries/</link>
+    <description>Recent content in Countries on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/countries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Austria</title>
+      <link>http://example.org/countries/austria/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/austria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bosnia</title>
+      <link>http://example.org/countries/bosnia/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/bosnia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Croatia</title>
+      <link>http://example.org/countries/croatia/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/croatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Czech</title>
+      <link>http://example.org/countries/czech/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/czech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>France</title>
+      <link>http://example.org/countries/france/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/france/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germany</title>
+      <link>http://example.org/countries/germany/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/germany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hungary</title>
+      <link>http://example.org/countries/hungary/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/hungary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iceland</title>
+      <link>http://example.org/countries/iceland/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/iceland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romania</title>
+      <link>http://example.org/countries/romania/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/romania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serbia</title>
+      <link>http://example.org/countries/serbia/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/serbia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usa</title>
+      <link>http://example.org/countries/usa/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/countries/usa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

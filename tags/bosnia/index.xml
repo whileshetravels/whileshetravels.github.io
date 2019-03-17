@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bosnia on WST</title>
+    <link>http://example.org/tags/bosnia/</link>
+    <description>Recent content in Bosnia on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/bosnia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mostar, a day trip from Sarajevo</title>
+      <link>http://example.org/post/bosnia/mostar/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bosnia/mostar/</guid>
+      <description>The historic town of Mostar spanning a deep valley of Neretva river must be on your list if you are in Bosnia and Herzegovina. It is famous for its medieval arched bridge called Stari Most or the Old Bridge built during the Ottoman empire rule, and now there is something else which is gaining popularity worldwide and it is the cliff diving competition. If you do not have enough time, this can easily be a day trip from Sarajevo.</description>
+    </item>
+    
+    <item>
+      <title>Top 10 things to do in Sarajevo, Bosnia and Herzegovina</title>
+      <link>http://example.org/post/bosnia/top-10-things-to-do-in-sarajevo-bosnia/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bosnia/top-10-things-to-do-in-sarajevo-bosnia/</guid>
+      <description>Sarajevo is an easygoing relaxing city representing both eastern and western culture. You can find a mosque and a church both in the same neighborhood, which is incredible. Europe is not cheap, but Sarajevo is a place where you can stay for few days lavishly. Food is not only good but cheap too. People though still tormented by the last war are friendly and hospitable, and most of them speak English.</description>
+    </item>
+    
+    <item>
+      <title>Trebević mountain hike</title>
+      <link>http://example.org/post/bosnia/trebevic/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bosnia/trebevic/</guid>
+      <description>Trebević mountain is so close to Sarajevo yet it feels so far. It was one of the favorite hangout places for Sarajevans before the war. During the war, heavy fighting took place here and most of the infrastructures got destroyed. A good portion of Trebević was mined, but it is pretty safe now, but one still gotta be careful.
+  We had heard so much good things about the mountains in Bosnia and Herzegovina, and we really wanted to hike at least one of them.</description>
+    </item>
+    
+    <item>
+      <title>Tunnel of Hope, Sarajevo</title>
+      <link>http://example.org/post/bosnia/tunnelofhope/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bosnia/tunnelofhope/</guid>
+      <description>As the name suggests, the Tunnel of Hope or the Sarajevo War Tunnel was the only hope for Sarajevans during the time of the Bosnian war. During the siege of Sarajevo, Serbian forces had entirely cut off Sarajevo from the outside world, and this tunnel was the only means of connection of Sarajevo with Bosnian-held territory on the other side of the Sarajevo airport, which was under the control of the United Nations.</description>
+    </item>
+    
+  </channel>
+</rss>

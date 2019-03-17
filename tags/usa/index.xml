@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usa on WST</title>
+    <link>http://example.org/tags/usa/</link>
+    <description>Recent content in Usa on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/usa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seward, Alaska</title>
+      <link>http://example.org/post/u.s.a./seward-alaska/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/u.s.a./seward-alaska/</guid>
+      <description>Alaska is beautiful and I know I am stating the obvious. D and I always wanted to go to Alaska but the problem was we do not have a driving license. Hey, we are working on that part. As they say, “Where there is a will, there is a way”, we found out cabs do work fine in some parts of Alaska. No Uber though. We planned out everything a month ahead.</description>
+    </item>
+    
+  </channel>
+</rss>

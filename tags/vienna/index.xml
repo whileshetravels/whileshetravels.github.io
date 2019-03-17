@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vienna on WST</title>
+    <link>http://example.org/tags/vienna/</link>
+    <description>Recent content in Vienna on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/vienna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One day in Vienna</title>
+      <link>http://example.org/post/austria/one-day-in-vienna/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/austria/one-day-in-vienna/</guid>
+      <description>One day in Vienna is obviously not enough, but D and I were courageous enough to do it despite being super tired from our previous trips. We had been out for three days already moving from Czech to Hungary and now to Austria.
+  We took an early bus from Budapest..really early at 7 AM and reached Erdburg station of Vienna at 10 AM. Google map for public transportation does not work here though it is fine for walking and car.</description>
+    </item>
+    
+  </channel>
+</rss>

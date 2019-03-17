@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hungary on WST</title>
+    <link>http://example.org/countries/hungary/</link>
+    <description>Recent content in Hungary on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/countries/hungary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One day in Budapest, Hungary</title>
+      <link>http://example.org/post/hungary/budapest/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/hungary/budapest/</guid>
+      <description>So, you wanna see the beautiful city of Budapest and you do not have enough time. D and I had the same problem and D did not even want to be here just for a day, but I somehow managed to plan this trip and it went well. I am leaving Budapest right now for Vienna and I am writing this on a bus. Ha.
+  There is no other place like Budapest!</description>
+    </item>
+    
+  </channel>
+</rss>

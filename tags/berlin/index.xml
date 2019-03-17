@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berlin on WST</title>
+    <link>http://example.org/tags/berlin/</link>
+    <description>Recent content in Berlin on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2 days in Berlin, Germany</title>
+      <link>http://example.org/post/germany/2-days-in-berlin-germany/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/germany/2-days-in-berlin-germany/</guid>
+      <description>Let me be very clear first. 2 days in Berlin is far from ideal, but hey, if you are running tight on the schedule, a couple of days in Berlin would give you a good impression of how this city is. We were in Berlin on christmas day and the day after. The christmas spirit was super high, as we expected.
+  Berlin, a city with so much history!   After having spent a day in Dresden, we took a bus (flixbus) from Dresden at 8:30 AM and reached Berlin at 10:45 AM.</description>
+    </item>
+    
+    <item>
+      <title>A day in Dresden, Germany</title>
+      <link>http://example.org/post/germany/a-day-in-dresden-germany/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/germany/a-day-in-dresden-germany/</guid>
+      <description>We wanted to visit a new place during christmas and we chose Germany. Close to Prague with so much crazy history. We started with visiting Dresden on the day of Christmas eve. We took a bus (Flixbus) from Praha hl.n. to Dresden hbf. It took us about 2 hours to get there. Pretty smooth ride.
+  #Dresden2016   THE STRIEZELMARKT (CHRISTMAS MARKET)
+If you are here during christmas (November 24 - December 24), the Striezelmarkt should be on the top of your list.</description>
+    </item>
+    
+  </channel>
+</rss>

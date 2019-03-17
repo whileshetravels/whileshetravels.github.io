@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on WST</title>
+    <link>http://example.org/tags/blogging/</link>
+    <description>Recent content in Blogging on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nice</title>
+      <link>http://example.org/post/france/nice/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/france/nice/</guid>
+      <description>&lt;p&gt;Nice (/ˈniːs/, French pronunciation: ​[nis]; Niçard Occitan: Niça, classical norm, or Nissa, nonstandard, pronounced [ˈnisa]; Italian: Nizza [ˈnittsa]; Greek: Νίκαια; Latin: Nicaea) is the fifth most populous city in France and the capital of the Alpes-Maritimes département. The urban area of Nice extends beyond the administrative city limits, with a population of about 1 million[1][2] on an area of 721 km2 (278 sq mi).[1] Located in the French Riviera, on the south east coast of France on the Mediterranean Sea, at the foot of the Alps, Nice is the second-largest French city on the Mediterranean coast and the second-largest city in the Provence-Alpes-Côte d&amp;rsquo;Azur region after Marseille. Nice is about 13 kilometres (8 miles) from the principality of Monaco, and its airport is a gateway to the principality as well.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
