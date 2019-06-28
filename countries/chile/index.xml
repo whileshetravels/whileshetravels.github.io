@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chile on WST</title>
+    <link>https://whileshetravels.github.io/countries/chile/</link>
+    <description>Recent content in Chile on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whileshetravels.github.io/countries/chile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lascar Volcano hike</title>
+      <link>https://whileshetravels.github.io/post/chile/san-pedro-de-atacama/lascar-volcano-hike/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/post/chile/san-pedro-de-atacama/lascar-volcano-hike/</guid>
+      <description>The most arid desert in th world, the Atcama Desert. The archealogoical capital of Chile is located at tee base of the High Lands, at the basin of the San Pedro River(the biggest river to reach the Atacam Salt Flats). The basins borders the Domeyko Mountain Range to the west and the high plateau or Altiplano of the Andes Mountain Range or the Puna de Atacam to the east</description>
+    </item>
+    
+    <item>
+      <title>San Pedro de Atacama Itinerary</title>
+      <link>https://whileshetravels.github.io/post/chile/san-pedro-de-atacama/summary/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/post/chile/san-pedro-de-atacama/summary/</guid>
+      <description>The most arid desert in th world, the Atcama Desert. The archealogoical capital of Chile is located at tee base of the High Lands, at the basin of the San Pedro River(the biggest river to reach the Atacam Salt Flats). The basins borders the Domeyko Mountain Range to the west and the high plateau or Altiplano of the Andes Mountain Range or the Puna de Atacam to the east</description>
+    </item>
+    
+  </channel>
+</rss>
