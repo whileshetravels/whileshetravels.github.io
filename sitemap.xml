@@ -433,20 +433,14 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/austria/</loc>
-    <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/austria/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/belgrade/</loc>
-    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/austria/</loc>
+    <lastmod>2016-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -457,13 +451,19 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/berlin/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/cities/belgrade/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/berlin/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/cities/berlin/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -475,20 +475,14 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/bosnia/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/bosnia/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/budapest/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/bosnia/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -499,18 +493,24 @@
   </url>
   
   <url>
+    <loc>https://whileshetravels.github.io/cities/budapest/</loc>
+    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://whileshetravels.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/chile/</loc>
+    <loc>https://whileshetravels.github.io/tags/chile/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/tags/chile/</loc>
+    <loc>https://whileshetravels.github.io/countries/chile/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -528,20 +528,14 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/croatia/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/croatia/</loc>
     <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/czech/</loc>
-    <lastmod>2017-01-26T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/croatia/</loc>
+    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -552,13 +546,19 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/categories/development/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/czech/</loc>
+    <lastmod>2017-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/development/</loc>
+    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/categories/development/</loc>
     <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -570,25 +570,25 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/france/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/france/</loc>
     <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/germany/</loc>
-    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/france/</loc>
+    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/germany/</loc>
+    <lastmod>2017-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/countries/germany/</loc>
     <lastmod>2017-01-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -612,20 +612,14 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/hungary/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/hungary/</loc>
     <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/iceland/</loc>
-    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/hungary/</loc>
+    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -636,8 +630,8 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/japan/</loc>
-    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/iceland/</loc>
+    <lastmod>2017-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -648,7 +642,7 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/mexico/</loc>
+    <loc>https://whileshetravels.github.io/countries/japan/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -660,7 +654,7 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/mexico-city/</loc>
+    <loc>https://whileshetravels.github.io/countries/mexico/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -672,19 +666,25 @@
   </url>
   
   <url>
+    <loc>https://whileshetravels.github.io/cities/mexico-city/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://whileshetravels.github.io/cities/nice/</loc>
     <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/paris/</loc>
+    <loc>https://whileshetravels.github.io/tags/paris/</loc>
     <lastmod>2017-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/tags/paris/</loc>
+    <loc>https://whileshetravels.github.io/cities/paris/</loc>
     <lastmod>2017-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -696,25 +696,25 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/prague/</loc>
-    <lastmod>2017-01-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/prague/</loc>
     <lastmod>2017-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/romania/</loc>
-    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/cities/prague/</loc>
+    <lastmod>2017-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/romania/</loc>
+    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/countries/romania/</loc>
     <lastmod>2017-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -732,19 +732,13 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/san-pedro-de-atacama/</loc>
-    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/san-pedro-de-atacama/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/sarajevo/</loc>
+    <loc>https://whileshetravels.github.io/cities/san-pedro-de-atacama/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -756,13 +750,19 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/serbia/</loc>
-    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/cities/sarajevo/</loc>
+    <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/serbia/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/countries/serbia/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -774,25 +774,25 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/seward/</loc>
-    <lastmod>2016-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/seward/</loc>
     <lastmod>2016-08-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/split/</loc>
-    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/cities/seward/</loc>
+    <lastmod>2016-08-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/split/</loc>
+    <lastmod>2017-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/cities/split/</loc>
     <lastmod>2017-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -804,20 +804,14 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/timisoara/</loc>
-    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://whileshetravels.github.io/tags/timisoara/</loc>
     <lastmod>2017-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/tokyo/</loc>
-    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/cities/timisoara/</loc>
+    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -828,7 +822,7 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/countries/usa/</loc>
+    <loc>https://whileshetravels.github.io/cities/tokyo/</loc>
     <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -840,13 +834,19 @@
   </url>
   
   <url>
-    <loc>https://whileshetravels.github.io/cities/vienna/</loc>
-    <lastmod>2016-12-16T00:00:00+00:00</lastmod>
+    <loc>https://whileshetravels.github.io/countries/usa/</loc>
+    <lastmod>2017-01-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://whileshetravels.github.io/tags/vienna/</loc>
+    <lastmod>2016-12-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://whileshetravels.github.io/cities/vienna/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
