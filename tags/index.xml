@@ -6,10 +6,19 @@
     <description>Recent content in Tags on WST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://whileshetravels.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Argentina</title>
+      <link>https://whileshetravels.github.io/tags/argentina/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/tags/argentina/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Austria</title>
@@ -62,6 +71,15 @@
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://whileshetravels.github.io/tags/budapest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buenos Aires</title>
+      <link>https://whileshetravels.github.io/tags/buenos-aires/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/tags/buenos-aires/</guid>
       <description></description>
     </item>
     
@@ -152,6 +170,15 @@
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://whileshetravels.github.io/tags/iceland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iguazu</title>
+      <link>https://whileshetravels.github.io/tags/iguazu/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/tags/iguazu/</guid>
       <description></description>
     </item>
     

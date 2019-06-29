@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argentina on WST</title>
+    <link>https://whileshetravels.github.io/countries/argentina/</link>
+    <description>Recent content in Argentina on WST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://whileshetravels.github.io/countries/argentina/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A day in Iguazu Falls</title>
+      <link>https://whileshetravels.github.io/post/argentina/iguazu-falls/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/post/argentina/iguazu-falls/</guid>
+      <description>Iguazu falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná. Together, they make up the largest waterfall system in the world. The falls divide the river into the upper and lower Iguazu.
+The name Iguazú meaning water and big. Legend has it that a deity planned to marry a beautiful woman named Naipí, who fled with her mortal lover Tarobá in a canoe.</description>
+    </item>
+    
+    <item>
+      <title>Two weeks in Buenos Aires</title>
+      <link>https://whileshetravels.github.io/post/argentina/buenos-aires/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://whileshetravels.github.io/post/argentina/buenos-aires/</guid>
+      <description>Buenos Aires is the capital and largest city of Argentina. The city is located on the western shore of the estuary of the Río de la Plata, on the South American continent&amp;rsquo;s southeastern coast. Buenos Aires can be translated as fair winds or good airs, but the former was the meaning intended by the founders in the 16th century, by the use of the original name Real de Nuestra Señora Santa María del Buen Ayre.</description>
+    </item>
+    
+  </channel>
+</rss>
